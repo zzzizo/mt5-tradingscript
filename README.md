@@ -1,4 +1,4 @@
-# MT5 Trading Bot
+# MT5 Trading Bo
 
 An automated trading Expert Advisor (EA) for MetaTrader 5 that trades cryptocurrency pairs using RSI and MACD indicators.
 

@@ -20,7 +20,7 @@ input double ATRMultiplier = 2.0;       // ATR multiplier for stop loss
 
 // === ENTRY FILTERS ===
 input bool UseTrendFilter = true;       // Only trade with trend
-input bool UseVolumeFilter = true;      // Require volume confirmation
+input bool UseVolumeFilter = true;      // Require volume confirmation   
 input double MinVolatility = 0.5;       // Minimum ATR % for trading
 input double MaxVolatility = 5.0;       // Maximum ATR % for trading
 

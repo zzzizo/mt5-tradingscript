@@ -63,7 +63,7 @@ int rsiH4Handle = INVALID_HANDLE;
 int emaH4_20Handle = INVALID_HANDLE;
 int emaH4_50Handle = INVALID_HANDLE;
 
-// Partial profit tracking
+// Partial profit trackin
 struct PartialProfitData {
    ulong ticket;
    bool level1Taken;

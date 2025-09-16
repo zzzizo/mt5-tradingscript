@@ -5,7 +5,7 @@
 #include <Trade\OrderInfo.mqh>
 
 // === TRADING PARAMETERS ===
-input string TradeSymbol = "BTCUSDT";
+input string TradeSymbol = "EURUSD";
 input double RiskPerTrade = 2.0;        // Risk per trade in % of balance
 input int Slippage = 100;
 input int MagicNumber = 123456;
